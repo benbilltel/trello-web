@@ -6,6 +6,7 @@ function App() {
     <>
       <Button variant="contained">Hello world</Button>
       <ThreeDRotation/>
+      <div>Test</div>
     </>
   )
 }
